@@ -8,15 +8,14 @@
 
 ``
 git clone https://github.com/tu-usuario/perfil-usuario.git
-cd perfil-usuario
-
 ``
-
+``
+cd perfil-usuario
+``
 ### Instalar las dependencias
 
 ``
 npm install
-
 ``
 
 ### Ejecutar en modo de desarrollo
