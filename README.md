@@ -7,7 +7,7 @@
 ### Clona el repositorio y posicionate en el
 
 ``
-git clone https://github.com/tu-usuario/perfil-usuario.git
+git clone https://github.com/FuriFuri22/Prueba-Tecnica.git
 ``
 ####
 ``
