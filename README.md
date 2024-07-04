@@ -9,8 +9,9 @@
 ``
 git clone https://github.com/tu-usuario/perfil-usuario.git
 ``
+####
 ``
-cd perfil-usuario
+cd Prueba-Tecnica
 ``
 ### Instalar las dependencias
 
